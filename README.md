@@ -11,7 +11,7 @@ Regula Falsi
 
 Gauss Siedel
 
-Gauss Eleminatio
+Gauss Elemination
 
 Inverse Matrix
 
